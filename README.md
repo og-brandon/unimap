@@ -1,2 +1,2 @@
-# uniguide
+# unimap
 UANL map guide
