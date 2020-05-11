@@ -1,0 +1,800 @@
+{
+  "Universidad": {
+    "nombre": "Universidad Autonoma de Nuevo Leon",
+    "Facultades": [
+      {
+        "nombre": "Facultad de Ingenieria Mecanica y Electrica",
+        "abrev": "FIME",
+        "descripcion": "La Facultad de Ingeniería Mecánica y Eléctrica (FIME) es una Institución educativa de nivel superior y pertenece a la Universidad Autónoma de Nuevo León.",
+        "coordenadas": "25.72536, -100.31346",
+        "marcador": [
+          {
+            "nombre": "Cafeteria FIME",
+            "descripcion": "La cafeteria oficial de FIME.",
+            "categoria": "Comidas",
+            "coordenadas": "25.72565, -100.31373",
+            "tags": "comidas, cafeteria, burritos, pollo, refrescos, agua, coca, soda, desayuno, carne, mesas, servilletas",
+            "icon": "utensils"
+          },
+          {
+            "nombre": "Papeleria FIME",
+            "descripcion": "Venta de utensilios escolares universitarios.",
+            "categoria": "Papeleria",
+            "coordenadas": "25.72549, -100.31343",
+            "tags": "copias, papeleria, utensilios, enmicado, engargolado, impresiones",
+            "icon": "paperclip"
+          },
+          {
+            "nombre": "Bebedero ",
+            "descripcion": "Bebedero del edificio 4 de FIME, cuenta con refill de agua.",
+            "categoria": "Bebederos",
+            "coordenadas": "25.72635,-100.31344",
+            "tags": "agua, refill, bebederos",
+            "icon": "tint"
+          },
+          {
+            "nombre": "Bebedero",
+            "descripcion": "Bebedero detras del edificio 4 de FIME, cuenta con refill de agua.",
+            "categoria": "Bebederos",
+            "coordenadas": "25.72616,-100.31305",
+            "tags": "agua, refill, bebederos",
+            "icon": "tint"
+          },
+          {
+            "nombre": "Bebedero",
+            "descripcion": "Bebedero a lado del edificio 3 de FIME.",
+            "categoria": "Bebederos",
+            "coordenadas": "25.72595,-100.31334",
+            "tags": "agua, bebedero, bebederos",
+            "icon": "tint"
+          },
+          {
+            "nombre": "Baño",
+            "descripcion": "Baños dentro del edificio 4 de FIME.",
+            "categoria": "Baños",
+            "coordenadas": "25.72624,-100.31316",
+            "tags": "lavabos, jabon, baños",
+            "icon": "restroom"
+          },
+          {
+            "nombre": "Baño",
+            "descripcion": "Dos baños dentro de la biblioteca de FIME, primer y tercer piso.",
+            "categoria": "Baños",
+            "coordenadas": "25.72622,-100.31377",
+            "tags": "lavabos, jabon, baños",
+            "icon": "restroom"
+          },
+          {
+            "nombre": "Baño",
+            "descripcion": "Baños dentro del edificio 6 de FIME en el segundo piso.",
+            "categoria": "Baños",
+            "coordenadas": "25.72597,-100.31392",
+            "tags": "lavabos, jabon, baños",
+            "icon": "restroom"
+          },
+          {
+            "nombre": "Baño",
+            "descripcion": "Baños en el edificio 1 de FIME, primer piso para hombres, segundo piso para mujeres.",
+            "categoria": "Baños",
+            "coordenadas": "25.72524,-100.31333",
+            "tags": "lavabos, jabon, baños",
+            "icon": "restroom"
+          },
+          {
+            "nombre": "Baño",
+            "descripcion": "Baños en el edificio 2 de FIME, primer piso de hombres, segundo piso para mujeres.",
+            "categoria": "Baños",
+            "coordenadas": "25.72524,-100.31333",
+            "tags": "lavabos, jabon, baños",
+            "icon": "restroom"
+          },
+          {
+            "nombre": "Baño",
+            "descripcion": "Baños en el edificio 3 de FIME, primer piso de hombres (entrada por HUBNATURA), segundo piso para mujeres, tercer piso para hombres.",
+            "categoria": "Baños",
+            "coordenadas": "25.72600,-100.31328",
+            "tags": "lavabos, jabon, baños",
+            "icon": "restroom"
+          },
+          {
+            "nombre": "Baño",
+            "descripcion": "Baños en el edificio 9 de FIME, segundo piso de mujeres, tercer piso para hombres.",
+            "categoria": "Baños",
+            "coordenadas": "25.72600,-100.31328",
+            "tags": "lavabos, jabon, baños",
+            "icon": "restroom"
+          },
+          {
+            "nombre": "Baño",
+            "descripcion": "Baños ubicados en la Biblioteca, hombres primer y tercer piso/mujeres primer y tercer piso",
+            "categoria": "Baños",
+            "coordenadas": "25.72619, -100.3137",
+            "tags": "lavabos, jabon, baños",
+            "icon": "restroom"
+          },
+          {
+            "nombre": "Doña Burros",
+            "descripcion": "Burritos de distintos guisos, combinación perfecta un burrito de discada y de pizza.",
+            "categoria": "Comidas",
+            "coordenadas": "25.72651, -100.31278",
+            "horario": "9:00 AM - 12:00 PM",
+            "precios": "Cada burrito $12",
+            "tags": "burros, tacos, burripizza, burritos, deshebrada",
+            "icon": "utensils",
+            "foto": "images/IMG-20191026-WA0052.jpg"
+          },
+          {
+            "nombre": "Snack de FIME",
+            "descripcion": "Snack oficial de FIME",
+            "categoria": "Comidas",
+            "coordenadas": "25.72561, -100.31358",
+            "horario": "6:30 AM - 9:30 PM",
+            "precios": "Pollo con papas $55",
+            "tags": "comidas, cafeteria, burritos, pollo, refrescos, agua, coca, soda, desayuno, carne, mesas, servilletas, cafe, frutas, manzana, platano, papas fritas, gatorade, chocolate",
+            "icon": "utensils"
+          },
+          {
+            "nombre": "Impresiones Biblioteca",
+            "descripcion": "Centro de copiado e impresion dentro de la biblioteca primer piso",
+            "categoria": "Impresiones",
+            "coordenadas": "25.72623,-100.31379",
+            "tags": "copias, papeleria, utensilios, enmicado, engargolado, impresiones",
+            "icon": "print"
+          },
+          {
+            "nombre": "Snack de Duritos (Don Duro)",
+            "descripcion": "Venta de diversos produtos: Duritos preparados, Tostitos y Conchitas preparadas, frituras, dulces, entre otros.",
+            "categoria": "Comidas",
+            "coordenadas": "25.72631, -100.31264",
+            "tags": "Doritos preparados, duritos, Tostitos y Conchitas preparadas, frituras, dulces",
+            "icon": "utensils",
+            "foto": "images/IMG-20191026-WA0053.jpg"
+          },
+          {
+            "nombre": "Don Chip",
+            "descripcion": "Venta de material electronico, entrada por el estacionamiento subiendo las escaleras",
+            "categoria": "Ventas",
+            "coordenadas": "25.72567,-100.31430",
+            "tags": "electronico, ventas, protoboard, leds, focos, cables, electronica, jumpers, arduino",
+            "icon": "bolt"
+          },
+          {
+            "nombre": "Máquina expendedora de material electronico",
+            "descripcion": "Venta de material electronico, segundo piso del edificio 7",
+            "categoria": "Ventas",
+            "coordenadas": "25.72553,-100.31446",
+            "tags": "electronico, ventas, protoboard, leds, focos, cables, electronica, jumpers, arduino",
+            "icon": "bolt"
+          },
+          {
+            "nombre": "Souvenirs FIME",
+            "descripcion": "Tienda oficial de FIME. Venta de chamarras, gorras, termos, entre otros souvenirs oficiales de FIME.",
+            "categoria": "Ventas",
+            "coordenadas": "25.72550,-100.31350",
+            "tags": "souvenirs, articulos, osos, tienda, chaquetas, paraguas, gorras, termos, chamarras, termos, mochilas, maletines",
+            "icon": "gifts"
+          }
+        ]
+      },
+      {
+        "nombre": "Facultad de Arquitectura",
+        "abrev": "FARQ",
+        "descripcion": "La Facultad de Arquitectura (FARQ) es una Institución educativa de nivel superior y pertenece a la Universidad Autónoma de Nuevo León.",        "coordenadas": "25.72516, -100.31200",
+        "coordenadas": "25.72516, -100.31200",
+        "marcador": [
+          {
+            "nombre": "Cafeteria FARQ",
+            "descripcion": "La cafeteria oficial de FARQ.",
+            "categoria": "Comidas",
+            "coordenadas": "25.72544, -100.31118",
+            "tags": "comidas, cafeteria, burritos, pollo, refrescos, agua, coca, soda, desayuno, carne, mesas, servilletas",
+            "icon": "utensils",
+            "foto": "images/IMG-20191026-WA0043.jpg"
+          },
+          {
+            "nombre": "Banco BANORTE",
+            "descripcion": "Banco BANORTE, cuenta con dos cajeros",
+            "categoria": "Cajeros",
+            "coordenadas": "25.72496,-100.31113",
+            "tags": "cajeros, dinero, money, atm, cash, efectivo, banorte",
+            "icon": "money-bill"
+          },
+          {
+            "nombre": "Papeleria FARQ(Doña CHOPE)",
+            "descripcion": "Venta de utensilios escolares universitarios.",
+            "categoria": "Papeleria",
+            "coordenadas": "25.72564, -100.31193",
+            "tags": "papeleria, utensilios, enmicado, engargolado",
+            "icon": "paperclip",
+            "foto": "images/IMG-20191026-WA0055.jpg"
+          },
+          {
+            "nombre": "Impresiones FARQ",
+            "descripcion": "Impresiones.",
+            "categoria": "Papeleria",
+            "coordenadas": "25.72531,-100.31193",
+            "tags": "copias, impresiones",
+            "icon": "paperclip",
+            "foto": "images/IMG-20191026-WA0048.jpg"
+          },
+          {
+            "nombre": "Papeleria PEGASSO",
+            "descripcion": "Venta de utensilios escolares universitarios.",
+            "categoria": "Papeleria",
+            "coordenadas": "25.72499,-100.31246",
+            "tags": "papeleria, utensilios, enmicado, engargolado,copias, impresiones",
+            "icon": "paperclip",
+            "foto": "images/IMG-20191026-WA0049.jpg"
+          },
+          {
+            "nombre": "Snack de FARQ",
+            "descripcion": "Venta de diversos produtos: Postres, licuados, Tostitos y tostadas preparadas, frituras, dulces, entre otros.",
+            "categoria": "Comidas",
+            "coordenadas": "25.72544,-100.31121",
+            "tags": "postre, tacos, hamburguesa, smoothie, papas, Tostitos y tostadas preparadas, frituras, dulces",
+            "icon": "utensils",
+            "foto": "images/IMG-20191026-WA0045.jpg"
+          },
+          {
+            "nombre": "Biblioteca de FARQ",
+            "descripcion": "Biblioteca FARQ",
+            "categoria": "Biblioteca",
+            "coordenadas": "25.72734,-100.30938",
+            "tags": "libros, estudio, descanso, computadoras, cubiculos",
+            "icon": "book-reader"
+          },
+          {
+            "nombre": "BINBOX",
+            "descripcion": "Venta de café de diversos estilos.",
+            "categoria": "Comidas",
+            "coordenadas": "25.72586,-100.31207",
+            "tags": "café,postre",
+            "icon": "utensils",
+            "foto": "images/IMG-20191026-WA0054.jpg"
+          }
+        ]
+      },
+      {
+        "nombre": "Facultad de Trabajo Social y Desarrollo Humano",
+        "abrev": "FTSYDH",
+        "descripcion": "La Facultad de Trabajo Social y Desarrollo Humano (FTSYDH) es una Institución educativa de nivel superior y pertenece a la Universidad Autónoma de Nuevo León.",
+        "coordenadas": "25.72516, -100.31200",
+        "marcador": [
+          {
+            "nombre": "Cafetería de FTSYDH",
+            "descripcion": "La cafeteria oficial de FTSYDH.",
+            "categoria": "Comidas",
+            "coordenadas": "25.72796,-100.30987",
+            "horario": "7: 00 AM - 9: 00 PM",
+            "tags": "comidas, cafeteria, burritos, pollo, refrescos, agua, coca, soda, desayuno, carne, mesas, servilletas",
+            "icon": "utensils"
+          },
+          {
+            "nombre": "Papeleria de FTSYDH",
+            "descripcion": "Papeleria de FTSYDH",
+            "categoria": "Papeleria",
+            "coordenadas": "25.72780,-100.31002",
+            "horario": "7: 00 AM - 9: 00 PM",
+            "precios": "Impresiones B&N $1.00 c/u, Copias $0.50 c/u, Engargolado $20.00",
+            "tags": "copias, papeleria, utensilios, enmicado, engargolado, impresiones",
+            "icon": "paperclip",
+            "foto": "images/IMG-20191026-WA0037.jpg"
+          },
+          {
+            "nombre": "Snack de FTSYDH",
+            "descripcion": "Snack oficial de FTSYDH",
+            "categoria": "Comidas",
+            "coordenadas": "25.72794,-100.30985",
+            "horario": "6:30 AM - 9:30 PM",
+            "tags": "comidas, cafeteria, hot dog, pizza dog, sandwich, fruta, nachos, pollo, refrescos, agua, coca, soda, desayuno, carne, mesas, servilletas, cafe, frutas, manzana, platano, papas fritas, gatorade, chocolate",
+            "icon": "utensils",
+            "foto": "images/IMG-20191026-WA0036.jpg"
+          },
+          {
+            "nombre": "Biblioteca de FTSYDH",
+            "descripcion": "Biblioteca FTSYDH",
+            "categoria": "Biblioteca",
+            "coordenadas": "25.72779,-100.31014",
+            "tags": "libros, estudio, descanso, computadoras, cubiculos",
+            "icon": "book-reader",
+            "foto": "images/IMG-20191026-WA0038.jpg"
+          },
+          {
+            "nombre": "Bebedero",
+            "descripcion": "Bebedero ubicado en el edificio 2",
+            "categoria": "Bebederos",
+            "coordenadas": "25.72793,-100.31019",
+            "tags": "agua, bebedero, bebederos",
+            "icon": "tint"
+          },
+          {
+            "nombre": "Baños",
+            "descripcion": "Baño de mujeres.",
+            "categoria": "Baños",
+            "coordenadas": "25.72792,-100.31025",
+            "tags": "lavabos, jabon, baños",
+            "icon": "restroom"
+          },
+          {
+            "nombre": "Baños",
+            "descripcion": "Baño de hombres",
+            "categoria": "Baños",
+            "coordenadas": "25.72775,-100.31026",
+            "tags": "lavabos, jabon, baños",
+            "icon": "restroom"
+          }
+        ]
+      },
+      {
+        "nombre": "Facultad de Contaduría Pública y Administración",
+        "abrev": "FACPYA",
+        "descripcion": "La Facultad de Contaduría Pública y Administración (FACPYA) es una Institución educativa de nivel superior y pertenece a la Universidad Autónoma de Nuevo León.",
+        "coordenadas": "25.72728, -100.30913",
+        "marcador": [
+          {
+            "nombre": "Cafeteria FACPYA",
+            "descripcion": "La cafeteria oficial de FACPYA.",
+            "categoria": "Comidas",
+            "coordenadas": "25.72761,-100.30954",
+            "horario": "7:00 AM - 9:30 PM",
+            "tags": "comidas, cafeteria, burritos, pollo, refrescos, agua, coca, soda, desayuno, carne, mesas, servilletas",
+            "icon": "utensils",
+            "foto": "images/IMG-20191026-WA0032.jpg"
+          },
+          {
+            "nombre": "Biblioteca de FACPYA",
+            "descripcion": "Biblioteca FACPYA",
+            "categoria": "Biblioteca",
+            "coordenadas": "25.72734,-100.30938",
+            "tags": "libros, estudio, descanso, computadoras, cubiculos",
+            "icon": "book-reader",
+            "foto": "images/IMG-20191026-WA0030.jpg"
+          },
+          {
+            "nombre": "Hotchos de FACPYA",
+            "descripcion": "Establecimiento de hot dogs ubicado a un costado de la cafetería de FACPYA.",
+            "categoria": "Comidas",
+            "coordenadas": "25.72749,-100.30946",
+            "horario": "8:30 AM - 9:30 PM",
+            "precios": "Hotdogs grandes $20, Hotdogs normales $15",
+            "tags": "hotdogs, hotchos, comidas, tacos, refrescos, soda",
+            "icon": "hotdog",
+            "foto": "images/IMG-20191026-WA0029.jpg"
+          },
+          {
+            "nombre": "Snack de FACPYA",
+            "descripcion": "Snack ubicado entre FACPYA y Trabajo Social ",
+            "categoria": "Comidas",
+            "coordenadas": "25.72812,-100.30970",
+            "horario": "8:00 AM - 9:30 PM",
+            "tags": "snacks, comidas, refrescos, coca, soda, papas",
+            "icon": "hamburger",
+            "foto": "images/IMG-20191026-WA0035.jpg"
+          },
+          {
+            "nombre": "Papeleria FACPYA",
+            "descripcion": "Centro de copiado e impresion a un costado de la Biblioteca de FACPYA",
+            "categoria": "Papeleria",
+            "coordenadas": "25.72733,-100.30952",
+            "horario": "7:00 AM - 9:00 PM",
+            "tags": "copias, papeleria, utensilios, enmicado, engargolado, impresiones",
+            "icon": "paperclip",
+            "foto": "images/IMG-20191026-WA0031.jpg"
+          },
+          {
+            "nombre": "Articulos FACPYA Libreria Elefantes",
+            "descripcion": "Venta de souvenirs",
+            "categoria": "Ventas",
+            "coordenadas": "25.72774,-100.30910",
+            "horario": "10:00 AM - 8:30 PM",
+            "tags": "souvenirs, articulos, elefantes, tienda, chaquetas, paraguas, termos, mochilas, maletines",
+            "icon": "gifts",
+            "foto": "images/IMG-20191026-WA0033.jpg"
+          },
+          {
+            "nombre": "Baños",
+            "descripcion": "Baños ubicados en el Edificio 11, hombres primer piso/mujeres segundo piso.",
+            "categoria": "Baños",
+            "coordenadas": "25.72862,-100.30877",
+            "tags": "lavabos, jabon, baños",
+            "icon": "restroom"
+          },
+          {
+            "nombre": "Baños",
+            "descripcion": "Baños ubicados en el Edificio 8.",
+            "categoria": "Baños",
+            "coordenadas": "25.72807,-100.30914",
+            "tags": "lavabos, jabon, baños",
+            "icon": "restroom"
+          },
+          {
+            "nombre": "Baños",
+            "descripcion": "Baños ubicados en el Edificio 1.",
+            "categoria": "Baños",
+            "coordenadas": "25.72741,-100.30961",
+            "tags": "lavabos, jabon, baños",
+            "icon": "restroom"
+          },
+          {
+            "nombre": "Bebedero",
+            "descripcion": "Bebedero ubicado en el area central de FACPYA",
+            "categoria": "Bebederos",
+            "coordenadas": "25.72808,-100.30927",
+            "tags": "agua, bebedero, bebederos",
+            "icon": "tint"
+          },
+          {
+            "nombre": "Bebedero",
+            "descripcion": "Bebedero ubicado frente a la Biblioteca de FACPYA, cuenta con refill",
+            "categoria": "Bebederos",
+            "coordenadas": "25.72744,-100.30930",
+            "tags": "agua, bebedero, bebederos",
+            "icon": "tint"
+          },
+          {
+            "nombre": "Cajero AFIRME",
+            "descripcion": "Cajero ubicado a un lado del gimnasio de FACPYA",
+            "categoria": "Cajeros",
+            "coordenadas": "25.72872,-100.30916",
+            "tags": "cajeros, dinero, money, atm, cash, efectivo, afirme",
+            "icon": "money-bill",
+            "foto": "images/IMG-20191026-WA0039.jpg"
+          },
+          {
+            "nombre": "Cajero AFIRME",
+            "descripcion": "Cajero ubicado dentro de FACPYA",
+            "categoria": "Cajeros",
+            "coordenadas": "25.72800,-100.30922",
+            "tags": "cajeros, dinero, money, atm, cash, efectivo, afirme",
+            "icon": "money-bill",
+            "foto": "images/IMG-20191026-WA0034.jpg"
+          }
+        ]
+      },
+      {
+        "nombre": "Facultad de Derecho y Criminología",
+        "abrev": "FACDYC",
+        "descripcion": "La Facultad de Derecho y Criminología (FACDYC) es una Institución educativa de nivel superior y pertenece a la Universidad Autónoma de Nuevo León.",
+        "coordenadas": "25.72636,-100.31054",
+        "marcador": [
+          {
+            "nombre": "Snack de FACDYC (Los Chidos)",
+            "descripcion": "Snack de FACDYC ubicado a un costado de la entrada de la FACDYC.",
+            "categoria": "Comidas",
+            "coordenadas": "25.72668,-100.31019",
+            "horario": "8:30 AM - 10:00 PM",
+            "tags": "comidas, refrescos, agua, coca, soda, desayuno, carne, mesas, servilletas, mesas",
+            "icon": "hamburger",
+            "foto": "images/IMG-20191026-WA0020.jpg"
+          },
+          {
+            "nombre": "Cafetería FACDYC",
+            "descripcion": "Cafetería oficial de FACDYC",
+            "categoria": "Comidas",
+            "coordenadas": "25.72610,-100.31116",
+            "horario": "7:30 AM - 9:30 PM",
+            "precios": "Comida del dia $60.00, Comida especial $70.00, Chilaquiles $55.00, Taco de Guiso $12.00, Burrito de Guiso $25.00",
+            "tags": "comidas, cafeteria, burritos, pollo, refrescos, agua, coca, soda, desayuno, carne, mesas, servilletas, mesas",
+            "icon": "utensils",
+            "foto": "images/IMG-20191026-WA0025.jpg"
+          },
+          {
+            "nombre": "Papelería de FACDYC",
+            "descripcion": "Papelería de FACDYC",
+            "categoria": "Papeleria",
+            "coordenadas": "25.72657,-100.31052",
+            "horario": "7:00 AM - 9:30 PM",
+            "precios": "Copias $0.50 c/u, Impresiones B&N $1.00 c/u, Engargolado $25.00",
+            "tags": "copias, papeleria, utensilios, enmicado, engargolado, impresiones",
+            "icon": "paperclip",
+            "foto": "images/IMG-20191026-WA0022.jpg"
+          },
+          {
+            "nombre": "Biblioteca de FACDYC",
+            "descripcion": "Biblioteca de FACYDC ubicada en el segundo piso del Edificio 1",
+            "categoria": "Biblioteca",
+            "coordenadas": "25.72666,-100.31029",
+            "horario": "7:30 AM - 9:00 PM",
+            "tags": "libros, estudio, descanso, computadoras, cubiculos",
+            "icon": "book-reader",
+            "foto": "images/IMG-20191026-WA0023.jpg"
+          },
+          {
+            "nombre": "Cajero BANORTE",
+            "descripcion": "Cajero BANORTE Ubicado en rectoria",
+            "categoria": "Cajeros",
+            "coordenadas": "25.72543,-100.31056",
+            "tags": "cajeros, dinero, money, atm, cash, efectivo, banorte",
+            "icon": "money-bill"
+          },
+          {
+            "nombre": "Cajero BANORTE",
+            "descripcion": "Cajero BANORTE Ubicado frente al estacionamiento de FACDYC/FACPYA",
+            "categoria": "Cajeros",
+            "coordenadas": "25.72692,-100.30978",
+            "tags": "cajeros, dinero, money, atm, cash, efectivo, banorte",
+            "icon": "money-bill",
+            "foto": "images/IMG-20191026-WA0028.jpg"
+          },
+          {
+            "nombre": "FERIA",
+            "descripcion": "Centro de recargas de tarjeta Feria y saldo para celulares, ubicado frente al estacionamiento de FACDYC/FACPYA",
+            "categoria": "Cajeros",
+            "coordenadas": "25.72683,-100.30980",
+            "tags": "tajeta, feria, celular, saldo, recarga",
+            "icon": "money-bill",
+            "foto": "images/IMG-20191026-WA0027.jpg"
+          },
+          {
+            "nombre": "Baños",
+            "descripcion": "Baño ubicado en el segundo piso",
+            "categoria": "Baños",
+            "coordenadas": "25.72658,-100.31066",
+            "tags": "lavabos, jabon, baños",
+            "icon": "restroom"
+          },
+          {
+            "nombre": "Baños",
+            "descripcion": "Baño ubicado en primer piso, frente a la cafeteria de FACDYC",
+            "categoria": "Baños",
+            "coordenadas": "25.72611,-100.31084",
+            "tags": "lavabos, jabon, baños",
+            "icon": "restroom"
+          },
+          {
+            "nombre": "Bebedero",
+            "descripcion": "Bebedero ubicado en el segundo piso, cuenta con refill",
+            "categoria": "Bebederos",
+            "coordenadas": "25.72675,-100.31089",
+            "tags": "agua, bebedero, bebederos, refill",
+            "icon": "tint"
+          },
+          {
+            "nombre": "Bebedero",
+            "descripcion": "Bebedero ubicado en el segundo piso, cuenta con refill",
+            "categoria": "Bebederos",
+            "coordenadas": "25.72655,-100.31072",
+            "tags": "agua, bebedero, bebederos, refill",
+            "icon": "tint"
+          }
+        ]
+      },
+      {
+        "nombre": "Facultad de Ingenieria Civil",
+        "abrev": "FIC",
+        "descripcion": "La Facultad de Ingenieria Civil (FIC) es una Institución educativa de nivel superior y pertenece a la Universidad Autónoma de Nuevo León.",
+        "coordenadas": "25.72439,-100.31376",
+        "marcador": [
+          {
+            "nombre": "Cafeteria de Civil",
+            "descripcion": "Cafetería oficial de Civil",
+            "categoria": "Comidas",
+            "coordenadas": "25.72475,-100.31410",
+            "tags": "comidas, refrescos, agua, coca, soda, desayuno, carne, mesas, servilletas, mesas, nuggets",
+            "icon": "utensils",
+            "foto": "images/IMG-20191027-WA0003.jpg"
+          },
+          {
+            "nombre": "Chilaquiles de Civil",
+            "descripcion": "Venta de ricos chilaquiles",
+            "categoria": "Comidas",
+            "coordenadas": "25.72479,-100.31426",
+            "tags": "chilaquiles, tortillas, tacos, salsa, verde, rojos",
+            "icon": "utensils"
+          },
+          {
+            "nombre": "Bebedero ",
+            "descripcion": "Bebedero ubicado frente a la Cafeteria de Civil",
+            "categoria": "Bebederos",
+            "coordenadas": "25.72476,-100.31388",
+            "tags": "agua, refill, bebederos, refill",
+            "icon": "tint"
+          },
+          {
+            "nombre": "Bebedero",
+            "descripcion": "Bebedero ubicado frente a la parada de Camiones, cuenta con refill",
+            "categoria": "Bebederos",
+            "coordenadas": "25.72394,-100.31334",
+            "tags": "agua, refill, bebederos, refill",
+            "icon": "tint"
+          },
+          {
+            "nombre": "Bebedero",
+            "descripcion": "Bebedero ubicado en la parada de Camiones, cuenta con refill",
+            "categoria": "Bebederos",
+            "coordenadas": "25.72379,-100.31337",
+            "tags": "agua, bebedero, bebederos, refill",
+            "icon": "tint"
+          }
+        ]
+      },
+      {
+        "nombre": "Facultad de Filosofía y Letras",
+        "abrev": "FFYL",
+        "descripcion": "La Facultad de Filosofía y Letras (FFYL) es una Institución educativa de nivel superior y pertenece a la Universidad Autónoma de Nuevo León.",
+        "coordenadas": "25.72439,-100.31376",
+        "marcador": [
+          {
+            "nombre": "Cafetería de FFYL",
+            "descripcion": "Cafetería Oficial de FFYL",
+            "categoria": "Comidas",
+            "coordenadas": "25.72703,-100.31061",
+            "tags": "comidas, refrescos, agua, coca, soda, desayuno, carne, mesas, servilletas, mesas, nuggets",
+            "icon": "utensils",
+            "foto": "images/IMG-20191026-WA0019.jpg"
+          },
+          {
+            "nombre": "Papeleria de FFYL",
+            "descripcion": "Papeleria de FFYL ubicada frente al estacionamiento",
+            "categoria": "Papeleria",
+            "coordenadas": "25.72718,-100.31082",
+            "horario": "7:00 AM - 9:30 PM",
+            "precios": "Copias $1.00 c/u, Impresiones B&N $1.00 c/u, Engargolado $20.00",
+            "tags": "copias, papeleria, utensilios, enmicado, engargolado, impresiones",
+            "icon": "paperclip",
+            "foto": "images/IMG-20191026-WA0018.jpg"
+          },
+          {
+            "nombre": "Bebedero ",
+            "descripcion": "Bebedero ubicado frente al estacionamiento de FFYL, cuenta con refill.",
+            "categoria": "Bebederos",
+            "coordenadas": "25.72730,-100.31073",
+            "tags": "agua, refill, bebederos, refill",
+            "icon": "tint"
+          },
+          {
+            "nombre": "Baños",
+            "descripcion": "Baños ubicados frente a la entrada de FFYL",
+            "categoria": "Baños",
+            "coordenadas": "25.72731,-100.31036",
+            "tags": "lavabos, jabon, baños",
+            "icon": "restroom"
+          }
+        ]
+      },
+      {
+        "nombre": "Facultad de Ciencias Químicas",
+        "abrev": "FCQ",
+        "descripcion": "La Facultad de Ciencia Químicas (FCQ) es una Institución educativa de nivel superior y pertenece a la Universidad Autónoma de Nuevo León.",
+        "coordenadas": "25.72419,-100.31545",
+        "marcador": [
+          {
+            "nombre": "Cafetería de FCQ",
+            "descripcion": "La cafeteria oficial de FCQ.",
+            "categoria": "Comidas",
+            "coordenadas": "25.72474,-100.31538",
+            "horario": "7: 00 AM - 9: 00 PM",
+            "tags": "comidas, cafeteria, burritos, pollo, refrescos, agua, coca, soda, desayuno, carne, mesas, servilletas",
+            "icon": "utensils",
+            "foto": "images/IMG-20191029-WA0013.jpg"
+          },
+          {
+            "nombre": "Farmacia Universitaria",
+            "descripcion": "La farmacia oficial de FCQ.",
+            "categoria": "Comidas",
+            "coordenadas": "25.72420,-100.31514",
+            "horario": "7: 00 AM - 9: 00 PM",
+            "tags": "comidas, cafeteria, burritos, pollo, refrescos, agua, coca, soda, desayuno, carne, mesas, servilletas",
+            "icon": "utensils",
+            "foto": "images/IMG-20191106-WA0002.jpg"
+          },
+          {
+            "nombre": "Cajero BANORTE",
+            "descripcion": "Cajero ubicado a un lado de la Facultad de Ciencias Químicas, frente a la parada de camiones",
+            "categoria": "Cajeros",
+            "coordenadas": "25.72400,-100.31588",
+            "tags": "cajeros, dinero, money, atm, cash, efectivo, afirme",
+            "icon": "money-bill",
+            "foto": "images/IMG-20191106-WA0008.jpg"
+          },
+          {
+            "nombre": "Papeleria de FCQ",
+            "descripcion": "Papeleria de FCQ",
+            "categoria": "Papeleria",
+            "coordenadas": "25.72454,-100.31553",
+            "horario": "7: 00 AM - 9: 00 PM",
+            "precios": "Impresiones B&N $1.00 c/u, Copias $0.50 c/u, Engargolado $20.00",
+            "tags": "copias, papeleria, utensilios, enmicado, engargolado, impresiones",
+            "icon": "paperclip",
+            "foto": ""
+          },
+          {
+            "nombre": "Biblioteca de FCQ",
+            "descripcion": "Biblioteca FCQ",
+            "categoria": "Biblioteca",
+            "coordenadas": "25.72461,-100.31561",
+            "tags": "libros, estudio, descanso, computadoras, cubiculos",
+            "icon": "book-reader",
+            "foto": ""
+          },
+          {
+            "nombre": "Baños",
+            "descripcion": "Baño de hombres",
+            "categoria": "Baños",
+            "coordenadas": "25.72433,-100.31524",
+            "tags": "lavabos, jabon, baños",
+            "icon": "restroom"
+          }
+        ]
+      },
+      {
+        "nombre": "Facultad de Ciencias Biológicas",
+        "abrev": "FCQ",
+        "descripcion": "La Facultad de Ciencias Biológicas (FCB) es una Institución educativa de nivel superior y pertenece a la Universidad Autónoma de Nuevo León.",
+        "coordenadas": "25.72421,-100.31636",
+        "marcador": [
+          {
+            "nombre": "Cafetería de FCB",
+            "descripcion": "La cafeteria oficial de FCB.",
+            "categoria": "Comidas",
+            "coordenadas": "25.72454,-100.31596",
+            "horario": "7: 00 AM - 9: 00 PM",
+            "tags": "comidas, cafeteria, burritos, pollo, refrescos, agua, coca, soda, desayuno, carne, mesas, servilletas",
+            "icon": "utensils",
+            "foto": "images/IMG-20191029-WA0014.jpg"
+          },
+          {
+            "nombre": "Cajero AFIRME",
+            "descripcion": "Cajero ubicado a un lado de la Facultad de Ciencias Biolólogicas, frente a la parada de camiones",
+            "categoria": "Cajeros",
+            "coordenadas": "25.72399,-100.31604",
+            "tags": "cajeros, dinero, money, atm, cash, efectivo, afirme",
+            "icon": "money-bill",
+            "foto": "images/IMG-20191106-WA0007.jpg"
+          }
+        ]
+      },
+      {
+        "nombre": "Facultad de Organización Deportiva",
+        "abrev": "FOD",
+        "descripcion": "La Facultad de Organización Deportiva (FOD) es una Institución educativa de nivel superior y pertenece a la Universidad Autónoma de Nuevo León.",
+        "coordenadas": "25.72722,-100.31258",
+        "marcador": [
+          {
+            "nombre": "Cafeteria FOD",
+            "descripcion": "La cafeteria oficial de FOD.",
+            "categoria": "Comidas",
+            "coordenadas": "25.72770,-100.31231",
+            "tags": "comidas, cafeteria, enchiladas, enmoladas, flautas, milanesa, huevos, machacado, pollo, refrescos, agua, coca, soda, desayuno, carne, mesas, servilletas",
+            "icon": "utensils",
+            "foto": "images/IMG-20191026-WA0012.jpg"
+          },
+          {
+            "nombre": "Papeleria FOD",
+            "descripcion": "Venta de utensilios escolares universitarios.",
+            "categoria": "Papeleria",
+            "coordenadas": "25.72753,-100.31229",
+            "tags": "copias, papeleria, utensilios, enmicado, engargolado, impresiones",
+            "icon": "paperclip",
+            "foto": "images/IMG-20191026-WA0016.jpg"
+          },
+          {
+            "nombre": "Baños",
+            "descripcion": "Baños a lado del bebedero en el primer piso",
+            "categoria": "Baños",
+            "coordenadas": "25.72761,-100.31213",
+            "tags": "lavabos, jabon, baños",
+            "icon": "restroom"
+          },
+          {
+            "nombre": "Bebedero ",
+            "descripcion": "Bebedero ubicado a lado del Baño",
+            "categoria": "Bebederos",
+            "coordenadas": "25.72754,-100.31213",
+            "tags": "agua, refill, bebederos, refill",
+            "icon": "tint"
+          },
+          {
+            "nombre": "Licuados FOD",
+            "descripcion": "Venta de licuados y cocteles de fruta.",
+            "categoria": "Comidas",
+            "coordenadas": "25.72717,-100.31247",
+            "tags": "Licuados, cocteles, fruta",
+            "icon": "glass-whiskey",
+            "foto": "images/IMG-20191026-WA0013.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}
