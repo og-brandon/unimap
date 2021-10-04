@@ -2,7 +2,7 @@
 
 <p align="center"><img src="unimap-demo-crop.gif" alt="drawing" width="500"/></p>
 
-[LIVE website](https://brandonzoft.github.io/unimap/)
+[LIVE website](https://og-brandon.github.io/unimap/)
 
 UniMap is a responsive website made for [Proyecto Integrador II– Optativa VII FP ENE-JUN 2020](https://www.fime.uanl.mx/wp-content/uploads/2020/10/Proyecto-Integrador-II-.pdf). 
 
@@ -40,4 +40,4 @@ Other/styling libraries include:
 - [Select2](https://github.com/select2/select2).
 - [Egg.js](http://thatmikeflynn.com/egg.js/) It includes an easter egg :)
 
-If you want to check the paper (which includes the Design Thinking methodology), download it [here](https://github.com/BrandonZoft/unimap/raw/master/UniMap_Doc.pdf).
+If you want to check the paper (which includes the Design Thinking methodology), download it [here](https://github.com/og-brandon/unimap/raw/master/UniMap_Doc.pdf).
