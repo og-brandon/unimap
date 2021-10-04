@@ -64,7 +64,7 @@ request.onreadystatechange = function(response) {
 facultyInput.placeholder = "cargando opciones";
 
 // Set up and make the request.
-request.open('GET', 'https://raw.githubusercontent.com/BrandonZoft/unimap/master/data.json', true);
+request.open('GET', 'https://raw.githubusercontent.com/og-brandon/unimap/master/data.json', true);
 request.send();
 
 function searchTags() {
