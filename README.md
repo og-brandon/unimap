@@ -40,4 +40,4 @@ Other/styling libraries include:
 - [Select2](https://github.com/select2/select2).
 - [Egg.js](http://thatmikeflynn.com/egg.js/) It includes an easter egg :)
 
-If you want to check the paper (which includes the Design Thinking methodology), download it [here](https://github.com/og-brandon/unimap/raw/master/UniMap_Doc.pdf).
+Design and documentation was done in collaboration with "Arturo C. Treviño", "Gerardo F. Lara" y "Samuel C. Pylant". If you want to check the paper (which includes the Design Thinking methodology), download it [here](https://github.com/og-brandon/unimap/raw/master/UniMap_Doc.pdf).
